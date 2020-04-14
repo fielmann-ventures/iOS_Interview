@@ -1,5 +1,5 @@
 # iOS_Interview
-iOS Challenge - Amr
+iOS Challenge
 
 Coding Challenge 
 
